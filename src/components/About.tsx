@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 import { useInView } from 'framer-motion';
 import { useRef } from 'react';
 import { Github, Linkedin, Mail } from 'lucide-react';
-import fotoPerfil from '../assets/img/Foto.jpg'; // ✅ Import da foto local
+import fotoPerfil from '../assets/img/Foto.jpg';
 
 export default function About() {
   const ref = useRef(null);
@@ -24,7 +24,6 @@ export default function About() {
 
           <div className="backdrop-blur-xl bg-white/10 border border-white/20 rounded-3xl p-8 md:p-12 shadow-2xl">
             <div className="grid md:grid-cols-2 gap-8 items-center">
-              {/* Foto */}
               <motion.div
                 initial={{ opacity: 0, scale: 0.8 }}
                 animate={isInView ? { opacity: 1, scale: 1 } : { opacity: 0, scale: 0.8 }}
@@ -41,7 +40,6 @@ export default function About() {
                 </div>
               </motion.div>
 
-              {/* Texto */}
               <motion.div
                 initial={{ opacity: 0, x: 50 }}
                 animate={isInView ? { opacity: 1, x: 0 } : { opacity: 0, x: 50 }}
@@ -67,7 +65,6 @@ export default function About() {
                   <span className="text-cyan-400 font-semibold"> tecnologia, inovação e propósito</span>.
                 </p>
 
-                {/* Links */}
                 <div className="flex gap-4">
                   <a
                     href="https://github.com/rafalemosfrs"
