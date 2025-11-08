@@ -14,7 +14,7 @@
     "description": "Uma Landing Page moderna e clean para um consultório de dentista.",
     "image": "/assets/img/landing-page-dentista.jpg",
     "technologies": ["HTML", "CSS", "TailwindCSS", "JS"],
-    "link": "https://rafalemosfrs.github.io/LandingPage-Dentista/",
+    "link": "https://landing-page-dentista-one.vercel.app",
     "category": "Frontend"
   },
   {
@@ -46,6 +46,15 @@
   },
   {
     "id": 6,
+    "title": "AlineCunhaBeauty",
+    "description": "Uma landing page simples, elegante e responsiva para um salão de beleza. Desenvolvida com React, Tailwind CSS e JavaScript.",
+    "image": "/assets/img/alinecunhabeauty.jpg",
+    "technologies": ["HTML", "CSS", "TailwindCSS", "JS", "React"],
+    "link": "https://aline-cunha-beauty.vercel.app",
+    "category": "Frontend"
+  },
+  {
+    "id": 7,
     "title": "Tcno Certificadora Digital",
     "description": "Landing page e SPA para certificadora digital (TCNO) com rotas, FAQ, 404 e CTAs integrados ao WhatsApp.",
     "image": "/assets/img/tcno-certificadora.jpg",
@@ -54,7 +63,7 @@
     "category": "Frontend"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "Projeto Sabres",
     "description": "Site completo para um time de futebol americano, com informações, calendário e área logada para atletas, adm e técnicos.",
     "image": "/assets/img/projeto-sabres.jpg",
