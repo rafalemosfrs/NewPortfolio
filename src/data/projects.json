@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Landing Page Solar",
+    "description": "Uma landing page para um site sobre geração e venda de energia solar.",
+    "image": "/assets/img/landing-page-solar.jpg",
+    "technologies": ["React", "HTML", "CSS", "TailwindCSS", "JS"],
+    "link": "https://landing-page-solar.vercel.app",
+    "category": "Frontend"
+  },
+  {
+    "id": 2,
+    "title": "Busca por Região",
+    "description": "Um site que consulta a API do IBGE para mostrar na tela todos munícipios por estado do Brasil.",
+    "image": "/assets/img/busca-por-regiao.jpg",
+    "technologies": ["HTML", "CSS", "JS"],
+    "link": "https://busca-por-regiao.vercel.app",
+    "category": "Frontend"
+  },
+  {
+    "id": 3,
+    "title": "Landing Page Dentista",
+    "description": "Uma Landing Page moderna e clean para um consultório de dentista.",
+    "image": "/assets/img/landing-page-dentista.jpg",
+    "technologies": ["HTML", "CSS", "TailwindCSS", "JS"],
+    "link": "https://rafalemosfrs.github.io/LandingPage-Dentista/",
+    "category": "Frontend"
+  },
+  {
+    "id": 4,
+    "title": "Site para Engenharia Solar",
+    "description": "Um site moderno e minimalista para uma empresa de engenharia elétrica voltada para a energia solar.",
+    "image": "/assets/img/engenharia-solar.jpg",
+    "technologies": ["HTML", "CSS", "TailwindCSS", "JS", "React"],
+    "link": "https://cearaenergiaengenharia.vercel.app",
+    "category": "Fullstack"
+  },
+  {
+    "id": 5,
+    "title": "Linkfour",
+    "description": "Um trabalho de reconstrução do aplicativo/site Linktree, feito com React e integração completa de backend.",
+    "image": "/assets/img/linkfour.jpg",
+    "technologies": ["HTML", "CSS", "TailwindCSS", "JS", "React", "Node.js", "SQL", "Vercel", "NeonDB", "Render", "Git"],
+    "link": "https://link-four.vercel.app",
+    "category": "Fullstack"
+  },
+  {
+    "id": 6,
+    "title": "Tcno Certificadora Digital",
+    "description": "Landing page e SPA para certificadora digital (TCNO) com rotas, FAQ, 404 e CTAs integrados ao WhatsApp.",
+    "image": "/assets/img/tcno-certificadora.jpg",
+    "technologies": ["HTML", "CSS", "TailwindCSS", "JS", "React", "Node.js"],
+    "link": "https://tcno-certificadora-digital.vercel.app",
+    "category": "Frontend"
+  },
+  {
+    "id": 7,
+    "title": "Projeto Sabres",
+    "description": "Site completo para um time de futebol americano, com informações, calendário e área logada para atletas, adm e técnicos.",
+    "image": "/assets/img/projeto-sabres.jpg",
+    "technologies": ["TailwindCSS", "JS", "React", "Node.js"],
+    "link": "https://projeto-sabres.vercel.app",
+    "category": "Fullstack"
+  }
+]
