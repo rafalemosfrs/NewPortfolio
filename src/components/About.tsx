@@ -78,7 +78,7 @@ export default function About() {
                     <Github size={24} />
                   </a>
                   <a
-                    href="https://linkedin.com/in/rafael-lemos"
+                    href="https://www.linkedin.com/in/rafalemosfrs"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="p-3 backdrop-blur-xl bg-white/10 border border-white/20 rounded-full text-white/80 hover:text-cyan-400 hover:bg-white/20 hover:border-cyan-400/50 transition-all duration-300 hover:scale-110"
@@ -86,7 +86,7 @@ export default function About() {
                     <Linkedin size={24} />
                   </a>
                   <a
-                    href="mailto:rafael.lemos@email.com"
+                    href="mailto:rafaelemosfr@gmail.com"
                     className="p-3 backdrop-blur-xl bg-white/10 border border-white/20 rounded-full text-white/80 hover:text-cyan-400 hover:bg-white/20 hover:border-cyan-400/50 transition-all duration-300 hover:scale-110"
                   >
                     <Mail size={24} />
