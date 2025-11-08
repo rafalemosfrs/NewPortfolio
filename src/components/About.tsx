@@ -51,7 +51,7 @@ export default function About() {
                   Olá, eu sou Rafael Lemos 👋
                 </h3>
                 <p className="text-white/70 text-lg leading-relaxed mb-6">
-                  Sou um <span className="text-cyan-400 font-semibold">Desenvolvedor Full Stack</span> de 25 anos, atualmente atuando na{" "}
+                  Sou um <span className="text-cyan-400 font-semibold">Desenvolvedor Full Stack</span> de 26 anos, atualmente atuando na{" "}
                   <span className="text-cyan-400 font-semibold">G4Flex</span>. 
                   Tenho paixão por transformar ideias em soluções digitais eficientes, combinando 
                   <span className="text-cyan-400 font-semibold"> performance, usabilidade e design moderno</span>.
