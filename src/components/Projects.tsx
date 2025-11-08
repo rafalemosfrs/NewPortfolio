@@ -21,7 +21,7 @@ export default function Projects() {
             Projetos
           </h2>
           <p className="text-white/60 text-center text-lg mb-16 max-w-2xl mx-auto">
-            Explore alguns dos projetos que desenvolvi
+            Explore alguns dos projetos que desenvolvi, organizados em ordem cronológica — do mais simples aos mais avançados.
           </p>
 
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8">

@@ -1,15 +1,6 @@
 [
   {
     "id": 1,
-    "title": "Landing Page Solar",
-    "description": "Uma landing page para um site sobre geração e venda de energia solar.",
-    "image": "/assets/img/landing-page-solar.jpg",
-    "technologies": ["React", "HTML", "CSS", "TailwindCSS", "JS"],
-    "link": "https://landing-page-solar.vercel.app",
-    "category": "Frontend"
-  },
-  {
-    "id": 2,
     "title": "Busca por Região",
     "description": "Um site que consulta a API do IBGE para mostrar na tela todos munícipios por estado do Brasil.",
     "image": "/assets/img/busca-por-regiao.jpg",
@@ -18,12 +9,21 @@
     "category": "Frontend"
   },
   {
-    "id": 3,
+    "id": 2,
     "title": "Landing Page Dentista",
     "description": "Uma Landing Page moderna e clean para um consultório de dentista.",
     "image": "/assets/img/landing-page-dentista.jpg",
     "technologies": ["HTML", "CSS", "TailwindCSS", "JS"],
     "link": "https://rafalemosfrs.github.io/LandingPage-Dentista/",
+    "category": "Frontend"
+  },
+  {
+    "id": 3,
+    "title": "Landing Page Solar",
+    "description": "Uma landing page para um site sobre geração e venda de energia solar.",
+    "image": "/assets/img/landing-page-solar.jpg",
+    "technologies": ["React", "HTML", "CSS", "TailwindCSS", "JS"],
+    "link": "https://landing-page-solar.vercel.app",
     "category": "Frontend"
   },
   {
