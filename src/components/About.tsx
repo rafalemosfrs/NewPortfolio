@@ -48,22 +48,23 @@ export default function About() {
                 <h3 className="text-2xl md:text-3xl font-bold text-white mb-4">
                   Olá, eu sou Rafael Lemos 👋
                 </h3>
-                <p className="text-white/70 text-lg leading-relaxed mb-6">
-                  Sou um <span className="text-cyan-400 font-semibold">Desenvolvedor Full Stack</span> de 26 anos, atualmente atuando na{" "}
-                  <span className="text-cyan-400 font-semibold">G4Flex</span>. 
-                  Tenho paixão por transformar ideias em soluções digitais eficientes, combinando 
-                  <span className="text-cyan-400 font-semibold"> performance, usabilidade e design moderno</span>.
-                </p>
-                <p className="text-white/70 text-lg leading-relaxed mb-8">
-                  Ao longo da minha jornada, desenvolvi diversos projetos que exploram desde o 
-                  <span className="text-cyan-400 font-semibold"> front-end </span> com React e TailwindCSS 
-                  até o <span className="text-cyan-400 font-semibold"> back-end </span> com Node.js e bancos de dados modernos. 
-                  Sou movido pela curiosidade, pela melhoria contínua e pela vontade de entregar experiências que realmente façam a diferença.
-                </p>
-                <p className="text-white/70 text-lg leading-relaxed mb-8">
-                  Estou sempre em busca de evoluir como profissional e contribuir para projetos que unam 
-                  <span className="text-cyan-400 font-semibold"> tecnologia, inovação e propósito</span>.
-                </p>
+<p className="text-white/70 text-lg leading-relaxed mb-6">
+  Sou um <span className="text-cyan-400 font-semibold">Desenvolvedor Full Stack</span> de 26 anos,
+  apaixonado por transformar ideias em soluções digitais eficientes, combinando
+  <span className="text-cyan-400 font-semibold"> performance, usabilidade e design moderno</span>.
+</p>
+
+<p className="text-white/70 text-lg leading-relaxed mb-8">
+  Ao longo da minha jornada, desenvolvi projetos que exploram desde o
+  <span className="text-cyan-400 font-semibold"> front-end </span> com React e TailwindCSS
+  até o <span className="text-cyan-400 font-semibold"> back-end </span> com Node.js e bancos de dados modernos.
+  Gosto de criar experiências digitais fluidas, funcionais e bem pensadas, sempre buscando entregar soluções que realmente façam a diferença.
+</p>
+
+<p className="text-white/70 text-lg leading-relaxed mb-8">
+  Sou movido pela curiosidade, pela melhoria contínua e pela vontade de contribuir com projetos que unam
+  <span className="text-cyan-400 font-semibold"> tecnologia, inovação e propósito</span>.
+</p>
 
                 <div className="flex gap-4">
                   <a
