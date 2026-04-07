@@ -70,5 +70,14 @@
     "technologies": ["TailwindCSS", "JS", "React", "Node.js"],
     "link": "https://projeto-sabres.vercel.app",
     "category": "Fullstack"
+  },
+    {
+    "id": 9,
+    "title": "ConecTEA - Espaço do Autista",
+    "description": "Projeto acadêmico em parceria com o Espaço do Autista. Tecnologia e apoio para fortalecer o atendimento a pessoas autistas.",
+    "image": "/assets/img/conectea.jpeg",
+    "technologies": ["TailwindCSS", "JS", "React", "Git", "Vercel", "Google Forms"],
+    "link": "https://espacodoautista.vercel.app",
+    "category": "Frontend"
   }
 ]
